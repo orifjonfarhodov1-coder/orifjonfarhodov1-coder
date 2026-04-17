@@ -12,8 +12,8 @@ Dasturlash olamiga qiziqaman va hozirda o'z bilimlarimni amaliy loyihalar orqali
 
 ## 🌐 Aloqa va Ijtimoiy tarmoqlar
 <p align="left">
-<a href="https://t.me" target="blank"><img align="center" src="https://githubusercontent.com" alt="Telegram" height="30" width="40" /></a>
-<a href="https://instagram.com_" target="blank"><img align="center" src="https://githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
+<a href="https://t.me" target="_blank"><img src="https://shields.io" /></a>
+<a href="https://instagram.com_" target="_blank"><img src="https://shields.io" /></a>
 </p>
 
 - 📱 **Telefon:** +998 (99) 961-65-62
@@ -30,6 +30,5 @@ Dasturlash olamiga qiziqaman va hozirda o'z bilimlarimni amaliy loyihalar orqali
 </p>
 
 ---
-
-
+*Ushbu portfolio README orqali yaratildi.*
 
