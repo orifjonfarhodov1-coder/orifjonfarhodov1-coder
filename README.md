@@ -1,7 +1,6 @@
-# Salom, men Orifjon! 👋 <img src="https://giphy.com" width="30px">
+# Salom, men Orifjon! 👋
 
 <p align="center">
-  <!-- Mashina rasmini shu tahrirlash oynasiga sudrab tashlang va GitHub bergan linkni src="..." ichiga qo'ying -->
   <img src="https://github.com" width="500" style="border-radius: 10px;" />
 </p>
 
@@ -31,5 +30,6 @@ Dasturlash olamiga qiziqaman va hozirda o'z bilimlarimni amaliy loyihalar orqali
 </p>
 
 ---
-*Ushbu portfolio README orqali yaratildi.*
+
+
 
