@@ -1,16 +1,35 @@
-## Hi there 👋
+# Salom, men Orifjon! 👋 <img src="https://giphy.com" width="30px">
 
-<!--
-**orifjonfarhodov1-coder/orifjonfarhodov1-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Mashina rasmini shu tahrirlash oynasiga sudrab tashlang va GitHub bergan linkni src="..." ichiga qo'ying -->
+  <img src="https://github.com" width="500" style="border-radius: 10px;" />
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 Men haqimda
+Dasturlash olamiga qiziqaman va hozirda o'z bilimlarimni amaliy loyihalar orqali boyityapman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Hozirda **Vue.js** va zamonaviy **Web-texnologiyalar** ustida ishlayapman.
+- 🌱 Doimiy ravishda yangi framework va vositalarni o'rganishga harakat qilaman.
+
+## 🌐 Aloqa va Ijtimoiy tarmoqlar
+<p align="left">
+<a href="https://t.me" target="blank"><img align="center" src="https://githubusercontent.com" alt="Telegram" height="30" width="40" /></a>
+<a href="https://instagram.com_" target="blank"><img align="center" src="https://githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+- 📱 **Telefon:** +998 (99) 961-65-62
+- 📧 **Email:** orifjonfarhodov1@gmail.com
+
+## 🛠 Texnologiyalarim
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+## 📊 GitHub Statistikam
+<p align="left">
+<img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+---
+*Ushbu portfolio README orqali yaratildi.*
+
